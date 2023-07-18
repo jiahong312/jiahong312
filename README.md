@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jiahong312
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 我是謝家閎
+- 👀 這裡面也沒有什麼東西好看
+- 🌱 html ui/ux 
+- 💞️ 爆肝人蔘
+- 📫 xiejiahong312@gmail.com
 
 <!---
 jiahong312/jiahong312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
